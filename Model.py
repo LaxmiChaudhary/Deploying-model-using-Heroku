@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ### 1. Create APIs for models to get deployed 
-# ### 2. Integrate models with Xavio
-# ### 3. Test the functionality after the deployment 
 
 # In[1]:
 
